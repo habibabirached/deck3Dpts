@@ -1,0 +1,772 @@
+[
+  {
+    "year": 2016,
+    "technology": "Coal",
+    "adjusted_ib": 1997.338283,
+    "baseline_ib": 1997.338283,
+    "fuel": "Coal",
+    "industry": "Thermal",
+    "adjusted_util": 53.81120703,
+    "baseline_util": 53.81120703
+  },
+  {
+    "year": 2017,
+    "technology": "Coal",
+    "adjusted_ib": 2045.826221,
+    "baseline_ib": 2045.378905,
+    "fuel": "Coal",
+    "industry": "Thermal",
+    "adjusted_util": 82.80557282,
+    "baseline_util": 52.65503668
+  },
+  {
+    "year": 2018,
+    "technology": "Coal",
+    "adjusted_ib": 2096.655854,
+    "baseline_ib": 2095.739094,
+    "fuel": "Coal",
+    "industry": "Thermal",
+    "adjusted_util": 21.72687421,
+    "baseline_util": 51.43845269
+  },
+  {
+    "year": 2019,
+    "technology": "Coal",
+    "adjusted_ib": 2128.325634,
+    "baseline_ib": 2122.656432,
+    "fuel": "Coal",
+    "industry": "Thermal",
+    "adjusted_util": 51.57043035,
+    "baseline_util": 51.25151339
+  },
+  {
+    "year": 2020,
+    "technology": "Coal",
+    "adjusted_ib": 2192.802305,
+    "baseline_ib": 2168.391802,
+    "fuel": "Coal",
+    "industry": "Thermal",
+    "adjusted_util": 50.39079649,
+    "baseline_util": 50.36984323
+  },
+  {
+    "year": 2021,
+    "technology": "Coal",
+    "adjusted_ib": 2228.719028,
+    "baseline_ib": 2198.573664,
+    "fuel": "Coal",
+    "industry": "Thermal",
+    "adjusted_util": 49.72837215,
+    "baseline_util": 49.69551928
+  },
+  {
+    "year": 2022,
+    "technology": "Coal",
+    "adjusted_ib": 2265.676814,
+    "baseline_ib": 2229.523489,
+    "fuel": "Coal",
+    "industry": "Thermal",
+    "adjusted_util": 49.65690458,
+    "baseline_util": 49.61815993
+  },
+  {
+    "year": 2023,
+    "technology": "Coal",
+    "adjusted_ib": 2278.796966,
+    "baseline_ib": 2236.597532,
+    "fuel": "Coal",
+    "industry": "Thermal",
+    "adjusted_util": 50.23092197,
+    "baseline_util": 50.19712764
+  },
+  {
+    "year": 2024,
+    "technology": "Coal",
+    "adjusted_ib": 2293.945503,
+    "baseline_ib": 2245.612727,
+    "fuel": "Coal",
+    "industry": "Thermal",
+    "adjusted_util": 50.82843048,
+    "baseline_util": 50.80317902
+  },
+  {
+    "year": 2025,
+    "technology": "Coal",
+    "adjusted_ib": 2298.923827,
+    "baseline_ib": 2244.720431,
+    "fuel": "Coal",
+    "industry": "Thermal",
+    "adjusted_util": 51.45044772,
+    "baseline_util": 51.43773089
+  },
+  {
+    "year": 2026,
+    "technology": "Coal",
+    "adjusted_ib": 2306.504979,
+    "baseline_ib": 2246.567603,
+    "fuel": "Coal",
+    "industry": "Thermal",
+    "adjusted_util": 51.85915605,
+    "baseline_util": 51.85702128
+  },
+  {
+    "year": 2016,
+    "technology": "Gas",
+    "adjusted_ib": 1438.466639,
+    "baseline_ib": 1438.466639,
+    "fuel": "Gas",
+    "industry": "Thermal",
+    "adjusted_util": 43.17682755,
+    "baseline_util": 43.17682755
+  },
+  {
+    "year": 2017,
+    "technology": "Gas",
+    "adjusted_ib": 1505.790645,
+    "baseline_ib": 1503.188835,
+    "fuel": "Gas",
+    "industry": "Thermal",
+    "adjusted_util": 42.57323711,
+    "baseline_util": 42.43495931
+  },
+  {
+    "year": 2018,
+    "technology": "Gas",
+    "adjusted_ib": 1570.958168,
+    "baseline_ib": 1564.520518,
+    "fuel": "Gas",
+    "industry": "Thermal",
+    "adjusted_util": 41.84884114,
+    "baseline_util": 41.60909715
+  },
+  {
+    "year": 2019,
+    "technology": "Gas",
+    "adjusted_ib": 1648.967802,
+    "baseline_ib": 1624.693732,
+    "fuel": "Gas",
+    "industry": "Thermal",
+    "adjusted_util": 41.50965189,
+    "baseline_util": 41.51872913
+  },
+  {
+    "year": 2020,
+    "technology": "Gas",
+    "adjusted_ib": 1711.266872,
+    "baseline_ib": 1678.205678,
+    "fuel": "Gas",
+    "industry": "Thermal",
+    "adjusted_util": 41.38236097,
+    "baseline_util": 41.39207466
+  },
+  {
+    "year": 2021,
+    "technology": "Gas",
+    "adjusted_ib": 1767.692834,
+    "baseline_ib": 1725.463451,
+    "fuel": "Gas",
+    "industry": "Thermal",
+    "adjusted_util": 41.40528112,
+    "baseline_util": 41.41810682
+  },
+  {
+    "year": 2022,
+    "technology": "Gas",
+    "adjusted_ib": 1830.205601,
+    "baseline_ib": 1778.733136,
+    "fuel": "Gas",
+    "industry": "Thermal",
+    "adjusted_util": 41.05954772,
+    "baseline_util": 41.06522962
+  },
+  {
+    "year": 2023,
+    "technology": "Gas",
+    "adjusted_ib": 1893.547221,
+    "baseline_ib": 1831.977959,
+    "fuel": "Gas",
+    "industry": "Thermal",
+    "adjusted_util": 41.14085163,
+    "baseline_util": 41.1504144
+  },
+  {
+    "year": 2024,
+    "technology": "Gas",
+    "adjusted_ib": 1957.419184,
+    "baseline_ib": 1885.336621,
+    "fuel": "Gas",
+    "industry": "Thermal",
+    "adjusted_util": 41.20456695,
+    "baseline_util": 41.21816496
+  },
+  {
+    "year": 2025,
+    "technology": "Gas",
+    "adjusted_ib": 2028.337081,
+    "baseline_ib": 1944.716276,
+    "fuel": "Gas",
+    "industry": "Thermal",
+    "adjusted_util": 41.47368921,
+    "baseline_util": 41.50062794
+  },
+  {
+    "year": 2026,
+    "technology": "Gas",
+    "adjusted_ib": 2102.550858,
+    "baseline_ib": 2007.290482,
+    "fuel": "Gas",
+    "industry": "Thermal",
+    "adjusted_util": 41.45112803,
+    "baseline_util": 41.480229
+  },
+  {
+    "year": 2016,
+    "technology": "Wind",
+    "adjusted_ib": 489.0084191,
+    "baseline_ib": 489.0084191,
+    "fuel": "Wind",
+    "industry": "Renewable",
+    "adjusted_util": 22.38356477,
+    "baseline_util": 22.38356477
+  },
+  {
+    "year": 2017,
+    "technology": "Wind",
+    "adjusted_ib": 550.8726107,
+    "baseline_ib": 547.0675618,
+    "fuel": "Wind",
+    "industry": "Renewable",
+    "adjusted_util": 22.52536792,
+    "baseline_util": 22.48928542
+  },
+  {
+    "year": 2018,
+    "technology": "Wind",
+    "adjusted_ib": 619.9804896,
+    "baseline_ib": 610.3388169,
+    "fuel": "Wind",
+    "industry": "Renewable",
+    "adjusted_util": 22.79635107,
+    "baseline_util": 22.76726172
+  },
+  {
+    "year": 2019,
+    "technology": "Wind",
+    "adjusted_ib": 685.3277032,
+    "baseline_ib": 669.3458339,
+    "fuel": "Wind",
+    "industry": "Renewable",
+    "adjusted_util": 23.04011497,
+    "baseline_util": 23.00196801
+  },
+  {
+    "year": 2020,
+    "technology": "Wind",
+    "adjusted_ib": 746.5688935,
+    "baseline_ib": 723.3826917,
+    "fuel": "Wind",
+    "industry": "Renewable",
+    "adjusted_util": 23.257122,
+    "baseline_util": 23.21286883
+  },
+  {
+    "year": 2021,
+    "technology": "Wind",
+    "adjusted_ib": 809.5953683,
+    "baseline_ib": 778.3597252,
+    "fuel": "Wind",
+    "industry": "Renewable",
+    "adjusted_util": 23.33780038,
+    "baseline_util": 23.2856325
+  },
+  {
+    "year": 2022,
+    "technology": "Wind",
+    "adjusted_ib": 872.8787738,
+    "baseline_ib": 832.7029651,
+    "fuel": "Wind",
+    "industry": "Renewable",
+    "adjusted_util": 23.41993702,
+    "baseline_util": 23.36117968
+  },
+  {
+    "year": 2023,
+    "technology": "Wind",
+    "adjusted_ib": 936.1316392,
+    "baseline_ib": 886.212408,
+    "fuel": "Wind",
+    "industry": "Renewable",
+    "adjusted_util": 23.47583332,
+    "baseline_util": 23.4103829
+  },
+  {
+    "year": 2024,
+    "technology": "Wind",
+    "adjusted_ib": 997.9041862,
+    "baseline_ib": 937.458658,
+    "fuel": "Wind",
+    "industry": "Renewable",
+    "adjusted_util": 23.54588367,
+    "baseline_util": 23.47548096
+  },
+  {
+    "year": 2025,
+    "technology": "Wind",
+    "adjusted_ib": 1064.601615,
+    "baseline_ib": 992.618919,
+    "fuel": "Wind",
+    "industry": "Renewable",
+    "adjusted_util": 23.58369269,
+    "baseline_util": 23.50725317
+  },
+  {
+    "year": 2026,
+    "technology": "Wind",
+    "adjusted_ib": 1131.635994,
+    "baseline_ib": 1047.288408,
+    "fuel": "Wind",
+    "industry": "Renewable",
+    "adjusted_util": 23.60774597,
+    "baseline_util": 23.52478886
+  },
+  {
+    "year": 2016,
+    "technology": "Nuclear",
+    "adjusted_ib": 373.9252999,
+    "baseline_ib": 373.9252999,
+    "fuel": "Nuclear",
+    "industry": "Thermal",
+    "adjusted_util": 83.43424285,
+    "baseline_util": 83.43424285
+  },
+  {
+    "year": 2017,
+    "technology": "Nuclear",
+    "adjusted_ib": 389.8689999,
+    "baseline_ib": 389.8689999,
+    "fuel": "Nuclear",
+    "industry": "Thermal",
+    "adjusted_util": 83.53940007,
+    "baseline_util": 83.23416367
+  },
+  {
+    "year": 2018,
+    "technology": "Nuclear",
+    "adjusted_ib": 411.3909999,
+    "baseline_ib": 411.3909999,
+    "fuel": "Nuclear",
+    "industry": "Thermal",
+    "adjusted_util": 83.59460247,
+    "baseline_util": 82.99465248
+  },
+  {
+    "year": 2019,
+    "technology": "Nuclear",
+    "adjusted_ib": 412.9590999,
+    "baseline_ib": 412.9590999,
+    "fuel": "Nuclear",
+    "industry": "Thermal",
+    "adjusted_util": 83.75413214,
+    "baseline_util": 82.86841559
+  },
+  {
+    "year": 2020,
+    "technology": "Nuclear",
+    "adjusted_ib": 424.3387903,
+    "baseline_ib": 424.2143952,
+    "fuel": "Nuclear",
+    "industry": "Thermal",
+    "adjusted_util": 83.87935441,
+    "baseline_util": 82.74092345
+  },
+  {
+    "year": 2021,
+    "technology": "Nuclear",
+    "adjusted_ib": 435.514128,
+    "baseline_ib": 434.1039904,
+    "fuel": "Nuclear",
+    "industry": "Thermal",
+    "adjusted_util": 83.60651467,
+    "baseline_util": 82.44658144
+  },
+  {
+    "year": 2022,
+    "technology": "Nuclear",
+    "adjusted_ib": 444.1447129,
+    "baseline_ib": 439.4268237,
+    "fuel": "Nuclear",
+    "industry": "Thermal",
+    "adjusted_util": 83.50216607,
+    "baseline_util": 82.69537567
+  },
+  {
+    "year": 2023,
+    "technology": "Nuclear",
+    "adjusted_ib": 450.8285371,
+    "baseline_ib": 440.104038,
+    "fuel": "Nuclear",
+    "industry": "Thermal",
+    "adjusted_util": 82.99369367,
+    "baseline_util": 83.04368019
+  },
+  {
+    "year": 2024,
+    "technology": "Nuclear",
+    "adjusted_ib": 454.9087065,
+    "baseline_ib": 442.6679666,
+    "fuel": "Nuclear",
+    "industry": "Thermal",
+    "adjusted_util": 83.321042,
+    "baseline_util": 83.38681712
+  },
+  {
+    "year": 2025,
+    "technology": "Nuclear",
+    "adjusted_ib": 457.8558559,
+    "baseline_ib": 444.157419,
+    "fuel": "Nuclear",
+    "industry": "Thermal",
+    "adjusted_util": 83.61455445,
+    "baseline_util": 83.69696794
+  },
+  {
+    "year": 2026,
+    "technology": "Nuclear",
+    "adjusted_ib": 470.3383391,
+    "baseline_ib": 454.8798714,
+    "fuel": "Nuclear",
+    "industry": "Thermal",
+    "adjusted_util": 83.85082967,
+    "baseline_util": 83.94966922
+  },
+  {
+    "year": 2016,
+    "technology": "Hydro",
+    "adjusted_ib": 1259.682116,
+    "baseline_ib": 1259.682116,
+    "fuel": "Hydro",
+    "industry": "Renewable",
+    "adjusted_util": 36.71308106,
+    "baseline_util": 36.71308106
+  },
+  {
+    "year": 2017,
+    "technology": "Hydro",
+    "adjusted_ib": 1275.427061,
+    "baseline_ib": 1275.427061,
+    "fuel": "Hydro",
+    "industry": "Renewable",
+    "adjusted_util": 36.79710007,
+    "baseline_util": 36.69160797
+  },
+  {
+    "year": 2018,
+    "technology": "Hydro",
+    "adjusted_ib": 1297.480297,
+    "baseline_ib": 1297.480297,
+    "fuel": "Hydro",
+    "industry": "Renewable",
+    "adjusted_util": 36.86166188,
+    "baseline_util": 36.65494316
+  },
+  {
+    "year": 2019,
+    "technology": "Hydro",
+    "adjusted_ib": 1316.4077,
+    "baseline_ib": 1313.629169,
+    "fuel": "Hydro",
+    "industry": "Renewable",
+    "adjusted_util": 36.64998818,
+    "baseline_util": 36.42528095
+  },
+  {
+    "year": 2020,
+    "technology": "Hydro",
+    "adjusted_ib": 1356.062353,
+    "baseline_ib": 1341.229733,
+    "fuel": "Hydro",
+    "industry": "Renewable",
+    "adjusted_util": 36.37279762,
+    "baseline_util": 36.37999841
+  },
+  {
+    "year": 2021,
+    "technology": "Hydro",
+    "adjusted_ib": 1411.611577,
+    "baseline_ib": 1392.758139,
+    "fuel": "Hydro",
+    "industry": "Renewable",
+    "adjusted_util": 36.20192907,
+    "baseline_util": 36.2084302
+  },
+  {
+    "year": 2022,
+    "technology": "Hydro",
+    "adjusted_ib": 1448.340386,
+    "baseline_ib": 1425.598082,
+    "fuel": "Hydro",
+    "industry": "Renewable",
+    "adjusted_util": 36.11993512,
+    "baseline_util": 36.12628855
+  },
+  {
+    "year": 2023,
+    "technology": "Hydro",
+    "adjusted_ib": 1475.100134,
+    "baseline_ib": 1448.572391,
+    "fuel": "Hydro",
+    "industry": "Renewable",
+    "adjusted_util": 36.11645045,
+    "baseline_util": 36.12368005
+  },
+  {
+    "year": 2024,
+    "technology": "Hydro",
+    "adjusted_ib": 1501.50559,
+    "baseline_ib": 1471.201875,
+    "fuel": "Hydro",
+    "industry": "Renewable",
+    "adjusted_util": 36.10227201,
+    "baseline_util": 36.11011159
+  },
+  {
+    "year": 2025,
+    "technology": "Hydro",
+    "adjusted_ib": 1523.445436,
+    "baseline_ib": 1489.558524,
+    "fuel": "Hydro",
+    "industry": "Renewable",
+    "adjusted_util": 36.05477397,
+    "baseline_util": 36.06235193
+  },
+  {
+    "year": 2026,
+    "technology": "Hydro",
+    "adjusted_ib": 1552.475908,
+    "baseline_ib": 1514.859423,
+    "fuel": "Hydro",
+    "industry": "Renewable",
+    "adjusted_util": 35.98640473,
+    "baseline_util": 35.9929785
+  },
+  {
+    "year": 2016,
+    "technology": "Distributed Solar",
+    "adjusted_ib": 120.586844,
+    "baseline_ib": 120.586844,
+    "fuel": "Solar",
+    "industry": "Renewable",
+    "adjusted_util": 9.029859497,
+    "baseline_util": 9.029859497
+  },
+  {
+    "year": 2017,
+    "technology": "Distributed Solar",
+    "adjusted_ib": 151.7623254,
+    "baseline_ib": 151.7623254,
+    "fuel": "Solar",
+    "industry": "Renewable",
+    "adjusted_util": 9.239965264,
+    "baseline_util": 9.239965264
+  },
+  {
+    "year": 2018,
+    "technology": "Distributed Solar",
+    "adjusted_ib": 179.926315,
+    "baseline_ib": 179.926315,
+    "fuel": "Solar",
+    "industry": "Renewable",
+    "adjusted_util": 9.460118726,
+    "baseline_util": 9.460118726
+  },
+  {
+    "year": 2019,
+    "technology": "Distributed Solar",
+    "adjusted_ib": 208.9765288,
+    "baseline_ib": 208.9765288,
+    "fuel": "Solar",
+    "industry": "Renewable",
+    "adjusted_util": 9.675370226,
+    "baseline_util": 9.675370226
+  },
+  {
+    "year": 2020,
+    "technology": "Distributed Solar",
+    "adjusted_ib": 238.4525115,
+    "baseline_ib": 238.4525115,
+    "fuel": "Solar",
+    "industry": "Renewable",
+    "adjusted_util": 9.847712899,
+    "baseline_util": 9.847712899
+  },
+  {
+    "year": 2021,
+    "technology": "Distributed Solar",
+    "adjusted_ib": 268.3242097,
+    "baseline_ib": 268.3242097,
+    "fuel": "Solar",
+    "industry": "Renewable",
+    "adjusted_util": 9.850419174,
+    "baseline_util": 9.850419174
+  },
+  {
+    "year": 2022,
+    "technology": "Distributed Solar",
+    "adjusted_ib": 301.5638102,
+    "baseline_ib": 301.5638102,
+    "fuel": "Solar",
+    "industry": "Renewable",
+    "adjusted_util": 9.846517307,
+    "baseline_util": 9.846517307
+  },
+  {
+    "year": 2023,
+    "technology": "Distributed Solar",
+    "adjusted_ib": 334.9412984,
+    "baseline_ib": 334.9412984,
+    "fuel": "Solar",
+    "industry": "Renewable",
+    "adjusted_util": 9.833513417,
+    "baseline_util": 9.833513417
+  },
+  {
+    "year": 2024,
+    "technology": "Distributed Solar",
+    "adjusted_ib": 368.3731285,
+    "baseline_ib": 368.3731285,
+    "fuel": "Solar",
+    "industry": "Renewable",
+    "adjusted_util": 9.811921837,
+    "baseline_util": 9.811921837
+  },
+  {
+    "year": 2025,
+    "technology": "Distributed Solar",
+    "adjusted_ib": 401.6589372,
+    "baseline_ib": 401.6589372,
+    "fuel": "Solar",
+    "industry": "Renewable",
+    "adjusted_util": 9.780024627,
+    "baseline_util": 9.780024627
+  },
+  {
+    "year": 2026,
+    "technology": "Distributed Solar",
+    "adjusted_ib": 434.9504044,
+    "baseline_ib": 434.9504044,
+    "fuel": "Solar",
+    "industry": "Renewable",
+    "adjusted_util": 9.742491096,
+    "baseline_util": 9.742491096
+  },
+  {
+    "year": 2016,
+    "technology": "Utility Solar",
+    "adjusted_ib": 180.8802659,
+    "baseline_ib": 180.8802659,
+    "fuel": "Solar",
+    "industry": "Renewable",
+    "adjusted_util": 18.1586353,
+    "baseline_util": 18.1586353
+  },
+  {
+    "year": 2017,
+    "technology": "Utility Solar",
+    "adjusted_ib": 229.8555579,
+    "baseline_ib": 227.6434882,
+    "fuel": "Solar",
+    "industry": "Renewable",
+    "adjusted_util": 18.76901572,
+    "baseline_util": 18.73285619
+  },
+  {
+    "year": 2018,
+    "technology": "Utility Solar",
+    "adjusted_ib": 275.2968032,
+    "baseline_ib": 269.8894726,
+    "fuel": "Solar",
+    "industry": "Renewable",
+    "adjusted_util": 19.39868723,
+    "baseline_util": 19.33674801
+  },
+  {
+    "year": 2019,
+    "technology": "Utility Solar",
+    "adjusted_ib": 323.168199,
+    "baseline_ib": 313.4647931,
+    "fuel": "Solar",
+    "industry": "Renewable",
+    "adjusted_util": 20.01677353,
+    "baseline_util": 19.94020831
+  },
+  {
+    "year": 2020,
+    "technology": "Utility Solar",
+    "adjusted_ib": 372.8172295,
+    "baseline_ib": 357.6787673,
+    "fuel": "Solar",
+    "industry": "Renewable",
+    "adjusted_util": 20.54648122,
+    "baseline_util": 20.46421561
+  },
+  {
+    "year": 2021,
+    "technology": "Utility Solar",
+    "adjusted_ib": 423.9647461,
+    "baseline_ib": 402.4863146,
+    "fuel": "Solar",
+    "industry": "Renewable",
+    "adjusted_util": 20.73486329,
+    "baseline_util": 20.64119172
+  },
+  {
+    "year": 2022,
+    "technology": "Utility Solar",
+    "adjusted_ib": 481.5521677,
+    "baseline_ib": 452.3457154,
+    "fuel": "Solar",
+    "industry": "Renewable",
+    "adjusted_util": 20.90893362,
+    "baseline_util": 20.80683759
+  },
+  {
+    "year": 2023,
+    "technology": "Utility Solar",
+    "adjusted_ib": 540.5367875,
+    "baseline_ib": 502.4119476,
+    "fuel": "Solar",
+    "industry": "Renewable",
+    "adjusted_util": 21.06378258,
+    "baseline_util": 20.95554211
+  },
+  {
+    "year": 2024,
+    "technology": "Utility Solar",
+    "adjusted_ib": 600.8051552,
+    "baseline_ib": 552.5596927,
+    "fuel": "Solar",
+    "industry": "Renewable",
+    "adjusted_util": 21.2005688,
+    "baseline_util": 21.0879691
+  },
+  {
+    "year": 2025,
+    "technology": "Utility Solar",
+    "adjusted_ib": 661.9880536,
+    "baseline_ib": 602.4884058,
+    "fuel": "Solar",
+    "industry": "Renewable",
+    "adjusted_util": 21.31593301,
+    "baseline_util": 21.19996814
+  },
+  {
+    "year": 2026,
+    "technology": "Utility Solar",
+    "adjusted_ib": 724.3956004,
+    "baseline_ib": 652.4256066,
+    "fuel": "Solar",
+    "industry": "Renewable",
+    "adjusted_util": 21.41933864,
+    "baseline_util": 21.30121222
+  }
+]

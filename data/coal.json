@@ -1,0 +1,922 @@
+[
+  {
+    "year": -5364633600000,
+    "source": "Coal",
+    "consumption": 0.35
+  },
+  {
+    "year": -5049100800000,
+    "source": "Coal",
+    "consumption": 0.46
+  },
+  {
+    "year": -4733568000000,
+    "source": "Coal",
+    "consumption": 0.55
+  },
+  {
+    "year": -4417948800000,
+    "source": "Coal",
+    "consumption": 0.95
+  },
+  {
+    "year": -4102416000000,
+    "source": "Coal",
+    "consumption": 1.28
+  },
+  {
+    "year": -3786796800000,
+    "source": "Coal",
+    "consumption": 2.05
+  },
+  {
+    "year": -3471264000000,
+    "source": "Coal",
+    "consumption": 3.82
+  },
+  {
+    "year": -3155644800000,
+    "source": "Coal",
+    "consumption": 5.91
+  },
+  {
+    "year": -2840112000000,
+    "source": "Coal",
+    "consumption": 9.15
+  },
+  {
+    "year": -2524492800000,
+    "source": "Coal",
+    "consumption": 13.88
+  },
+  {
+    "year": -2208960000000,
+    "source": "Coal",
+    "consumption": 20.62
+  },
+  {
+    "year": -1893427200000,
+    "source": "Coal",
+    "consumption": 31.16
+  },
+  {
+    "year": -1577894400000,
+    "source": "Coal",
+    "consumption": 35.4
+  },
+  {
+    "year": -1262275200000,
+    "source": "Coal",
+    "consumption": 36.45
+  },
+  {
+    "year": -946742400000,
+    "source": "Coal",
+    "consumption": 41.71
+  },
+  {
+    "year": -631123200000,
+    "source": "Coal",
+    "consumption": 45.37
+  },
+  {
+    "year": -315590400000,
+    "source": "Coal",
+    "consumption": 55.59
+  },
+  {
+    "year": 28800000,
+    "source": "Coal",
+    "consumption": 62.39
+  },
+  {
+    "year": 315561600000,
+    "source": "Coal",
+    "consumption": 79.8
+  },
+  {
+    "year": 631180800000,
+    "source": "Coal",
+    "consumption": 94.1
+  },
+  {
+    "year": 946713600000,
+    "source": "Coal",
+    "consumption": 96
+  },
+  {
+    "year": 1262332800000,
+    "source": "Coal",
+    "consumption": 150
+  },
+  {
+    "year": 1420099200000,
+    "source": "Coal",
+    "consumption": 159.7
+  },
+  {
+    "year": -5364633600000,
+    "source": "Crude oil",
+    "consumption": 0
+  },
+  {
+    "year": -5049100800000,
+    "source": "Crude oil",
+    "consumption": 0
+  },
+  {
+    "year": -4733568000000,
+    "source": "Crude oil",
+    "consumption": 0
+  },
+  {
+    "year": -4417948800000,
+    "source": "Crude oil",
+    "consumption": 0
+  },
+  {
+    "year": -4102416000000,
+    "source": "Crude oil",
+    "consumption": 0
+  },
+  {
+    "year": -3786796800000,
+    "source": "Crude oil",
+    "consumption": 0
+  },
+  {
+    "year": -3471264000000,
+    "source": "Crude oil",
+    "consumption": 0
+  },
+  {
+    "year": -3155644800000,
+    "source": "Crude oil",
+    "consumption": 0.02
+  },
+  {
+    "year": -2840112000000,
+    "source": "Crude oil",
+    "consumption": 0.12
+  },
+  {
+    "year": -2524492800000,
+    "source": "Crude oil",
+    "consumption": 0.32
+  },
+  {
+    "year": -2208960000000,
+    "source": "Crude oil",
+    "consumption": 0.65
+  },
+  {
+    "year": -1893427200000,
+    "source": "Crude oil",
+    "consumption": 1.43
+  },
+  {
+    "year": -1577894400000,
+    "source": "Crude oil",
+    "consumption": 3.2
+  },
+  {
+    "year": -1262275200000,
+    "source": "Crude oil",
+    "consumption": 6.32
+  },
+  {
+    "year": -946742400000,
+    "source": "Crude oil",
+    "consumption": 9.55
+  },
+  {
+    "year": -631123200000,
+    "source": "Crude oil",
+    "consumption": 19.6
+  },
+  {
+    "year": -315590400000,
+    "source": "Crude oil",
+    "consumption": 39.95
+  },
+  {
+    "year": 28800000,
+    "source": "Crude oil",
+    "consumption": 85.31
+  },
+  {
+    "year": 315561600000,
+    "source": "Crude oil",
+    "consumption": 110.24
+  },
+  {
+    "year": 631180800000,
+    "source": "Crude oil",
+    "consumption": 113.36
+  },
+  {
+    "year": 946713600000,
+    "source": "Crude oil",
+    "consumption": 129.16
+  },
+  {
+    "year": 1262332800000,
+    "source": "Crude oil",
+    "consumption": 141.92
+  },
+  {
+    "year": 1420099200000,
+    "source": "Crude oil",
+    "consumption": 154.62
+  },
+  {
+    "year": -5364633600000,
+    "source": "Natural gas",
+    "consumption": 0
+  },
+  {
+    "year": -5049100800000,
+    "source": "Natural gas",
+    "consumption": 0
+  },
+  {
+    "year": -4733568000000,
+    "source": "Natural gas",
+    "consumption": 0
+  },
+  {
+    "year": -4417948800000,
+    "source": "Natural gas",
+    "consumption": 0
+  },
+  {
+    "year": -4102416000000,
+    "source": "Natural gas",
+    "consumption": 0
+  },
+  {
+    "year": -3786796800000,
+    "source": "Natural gas",
+    "consumption": 0
+  },
+  {
+    "year": -3471264000000,
+    "source": "Natural gas",
+    "consumption": 0
+  },
+  {
+    "year": -3155644800000,
+    "source": "Natural gas",
+    "consumption": 0
+  },
+  {
+    "year": -2840112000000,
+    "source": "Natural gas",
+    "consumption": 0
+  },
+  {
+    "year": -2524492800000,
+    "source": "Natural gas",
+    "consumption": 0.12
+  },
+  {
+    "year": -2208960000000,
+    "source": "Natural gas",
+    "consumption": 0.23
+  },
+  {
+    "year": -1893427200000,
+    "source": "Natural gas",
+    "consumption": 0.51
+  },
+  {
+    "year": -1577894400000,
+    "source": "Natural gas",
+    "consumption": 0.84
+  },
+  {
+    "year": -1262275200000,
+    "source": "Natural gas",
+    "consumption": 2.17
+  },
+  {
+    "year": -946742400000,
+    "source": "Natural gas",
+    "consumption": 3.15
+  },
+  {
+    "year": -631123200000,
+    "source": "Natural gas",
+    "consumption": 7.53
+  },
+  {
+    "year": -315590400000,
+    "source": "Natural gas",
+    "consumption": 16.1
+  },
+  {
+    "year": 28800000,
+    "source": "Natural gas",
+    "consumption": 35.89
+  },
+  {
+    "year": 315561600000,
+    "source": "Natural gas",
+    "consumption": 51.76
+  },
+  {
+    "year": 631180800000,
+    "source": "Natural gas",
+    "consumption": 70.78
+  },
+  {
+    "year": 946713600000,
+    "source": "Natural gas",
+    "consumption": 86.11
+  },
+  {
+    "year": 1262332800000,
+    "source": "Natural gas",
+    "consumption": 114
+  },
+  {
+    "year": 1420099200000,
+    "source": "Natural gas",
+    "consumption": 123.78
+  },
+  {
+    "year": -5364633600000,
+    "source": "Hydroelectricity",
+    "consumption": 0
+  },
+  {
+    "year": -5049100800000,
+    "source": "Hydroelectricity",
+    "consumption": 0
+  },
+  {
+    "year": -4733568000000,
+    "source": "Hydroelectricity",
+    "consumption": 0
+  },
+  {
+    "year": -4417948800000,
+    "source": "Hydroelectricity",
+    "consumption": 0
+  },
+  {
+    "year": -4102416000000,
+    "source": "Hydroelectricity",
+    "consumption": 0
+  },
+  {
+    "year": -3786796800000,
+    "source": "Hydroelectricity",
+    "consumption": 0
+  },
+  {
+    "year": -3471264000000,
+    "source": "Hydroelectricity",
+    "consumption": 0
+  },
+  {
+    "year": -3155644800000,
+    "source": "Hydroelectricity",
+    "consumption": 0
+  },
+  {
+    "year": -2840112000000,
+    "source": "Hydroelectricity",
+    "consumption": 0
+  },
+  {
+    "year": -2524492800000,
+    "source": "Hydroelectricity",
+    "consumption": 0.05
+  },
+  {
+    "year": -2208960000000,
+    "source": "Hydroelectricity",
+    "consumption": 0.06
+  },
+  {
+    "year": -1893427200000,
+    "source": "Hydroelectricity",
+    "consumption": 0.12
+  },
+  {
+    "year": -1577894400000,
+    "source": "Hydroelectricity",
+    "consumption": 0.23
+  },
+  {
+    "year": -1262275200000,
+    "source": "Hydroelectricity",
+    "consumption": 0.47
+  },
+  {
+    "year": -946742400000,
+    "source": "Hydroelectricity",
+    "consumption": 0.69
+  },
+  {
+    "year": -631123200000,
+    "source": "Hydroelectricity",
+    "consumption": 1.2
+  },
+  {
+    "year": -315590400000,
+    "source": "Hydroelectricity",
+    "consumption": 2.48
+  },
+  {
+    "year": 28800000,
+    "source": "Hydroelectricity",
+    "consumption": 4.93
+  },
+  {
+    "year": 315561600000,
+    "source": "Hydroelectricity",
+    "consumption": 6.11
+  },
+  {
+    "year": 631180800000,
+    "source": "Hydroelectricity",
+    "consumption": 7.78
+  },
+  {
+    "year": 946713600000,
+    "source": "Hydroelectricity",
+    "consumption": 9.55
+  },
+  {
+    "year": 1262332800000,
+    "source": "Hydroelectricity",
+    "consumption": 12.47
+  },
+  {
+    "year": 1420099200000,
+    "source": "Hydroelectricity",
+    "consumption": 14.21
+  },
+  {
+    "year": -5364633600000,
+    "source": "Nuclear electricity",
+    "consumption": 0
+  },
+  {
+    "year": -5049100800000,
+    "source": "Nuclear electricity",
+    "consumption": 0
+  },
+  {
+    "year": -4733568000000,
+    "source": "Nuclear electricity",
+    "consumption": 0
+  },
+  {
+    "year": -4417948800000,
+    "source": "Nuclear electricity",
+    "consumption": 0
+  },
+  {
+    "year": -4102416000000,
+    "source": "Nuclear electricity",
+    "consumption": 0
+  },
+  {
+    "year": -3786796800000,
+    "source": "Nuclear electricity",
+    "consumption": 0
+  },
+  {
+    "year": -3471264000000,
+    "source": "Nuclear electricity",
+    "consumption": 0
+  },
+  {
+    "year": -3155644800000,
+    "source": "Nuclear electricity",
+    "consumption": 0
+  },
+  {
+    "year": -2840112000000,
+    "source": "Nuclear electricity",
+    "consumption": 0
+  },
+  {
+    "year": -2524492800000,
+    "source": "Nuclear electricity",
+    "consumption": 0
+  },
+  {
+    "year": -2208960000000,
+    "source": "Nuclear electricity",
+    "consumption": 0
+  },
+  {
+    "year": -1893427200000,
+    "source": "Nuclear electricity",
+    "consumption": 0
+  },
+  {
+    "year": -1577894400000,
+    "source": "Nuclear electricity",
+    "consumption": 0
+  },
+  {
+    "year": -1262275200000,
+    "source": "Nuclear electricity",
+    "consumption": 0
+  },
+  {
+    "year": -946742400000,
+    "source": "Nuclear electricity",
+    "consumption": 0
+  },
+  {
+    "year": -631123200000,
+    "source": "Nuclear electricity",
+    "consumption": 0
+  },
+  {
+    "year": -315590400000,
+    "source": "Nuclear electricity",
+    "consumption": 0.03
+  },
+  {
+    "year": 28800000,
+    "source": "Nuclear electricity",
+    "consumption": 0.83
+  },
+  {
+    "year": 315561600000,
+    "source": "Nuclear electricity",
+    "consumption": 7.68
+  },
+  {
+    "year": 631180800000,
+    "source": "Nuclear electricity",
+    "consumption": 19.1
+  },
+  {
+    "year": 946713600000,
+    "source": "Nuclear electricity",
+    "consumption": 24.55
+  },
+  {
+    "year": 1262332800000,
+    "source": "Nuclear electricity",
+    "consumption": 26.22
+  },
+  {
+    "year": 1420099200000,
+    "source": "Nuclear electricity",
+    "consumption": 24.5
+  },
+  {
+    "year": -5364633600000,
+    "source": "Wind and solar",
+    "consumption": 0
+  },
+  {
+    "year": -5049100800000,
+    "source": "Wind and solar",
+    "consumption": 0
+  },
+  {
+    "year": -4733568000000,
+    "source": "Wind and solar",
+    "consumption": 0
+  },
+  {
+    "year": -4417948800000,
+    "source": "Wind and solar",
+    "consumption": 0
+  },
+  {
+    "year": -4102416000000,
+    "source": "Wind and solar",
+    "consumption": 0
+  },
+  {
+    "year": -3786796800000,
+    "source": "Wind and solar",
+    "consumption": 0
+  },
+  {
+    "year": -3471264000000,
+    "source": "Wind and solar",
+    "consumption": 0
+  },
+  {
+    "year": -3155644800000,
+    "source": "Wind and solar",
+    "consumption": 0
+  },
+  {
+    "year": -2840112000000,
+    "source": "Wind and solar",
+    "consumption": 0
+  },
+  {
+    "year": -2524492800000,
+    "source": "Wind and solar",
+    "consumption": 0
+  },
+  {
+    "year": -2208960000000,
+    "source": "Wind and solar",
+    "consumption": 0
+  },
+  {
+    "year": -1893427200000,
+    "source": "Wind and solar",
+    "consumption": 0
+  },
+  {
+    "year": -1577894400000,
+    "source": "Wind and solar",
+    "consumption": 0
+  },
+  {
+    "year": -1262275200000,
+    "source": "Wind and solar",
+    "consumption": 0
+  },
+  {
+    "year": -946742400000,
+    "source": "Wind and solar",
+    "consumption": 0
+  },
+  {
+    "year": -631123200000,
+    "source": "Wind and solar",
+    "consumption": 0
+  },
+  {
+    "year": -315590400000,
+    "source": "Wind and solar",
+    "consumption": 0
+  },
+  {
+    "year": 28800000,
+    "source": "Wind and solar",
+    "consumption": 0
+  },
+  {
+    "year": 315561600000,
+    "source": "Wind and solar",
+    "consumption": 0
+  },
+  {
+    "year": 631180800000,
+    "source": "Wind and solar",
+    "consumption": 0.01
+  },
+  {
+    "year": 946713600000,
+    "source": "Wind and solar",
+    "consumption": 0.1
+  },
+  {
+    "year": 1262332800000,
+    "source": "Wind and solar",
+    "consumption": 1.35
+  },
+  {
+    "year": 1420099200000,
+    "source": "Wind and solar",
+    "consumption": 3.93
+  },
+  {
+    "year": -5364633600000,
+    "source": "Modern biofuels",
+    "consumption": 0
+  },
+  {
+    "year": -5049100800000,
+    "source": "Modern biofuels",
+    "consumption": 0
+  },
+  {
+    "year": -4733568000000,
+    "source": "Modern biofuels",
+    "consumption": 0
+  },
+  {
+    "year": -4417948800000,
+    "source": "Modern biofuels",
+    "consumption": 0
+  },
+  {
+    "year": -4102416000000,
+    "source": "Modern biofuels",
+    "consumption": 0
+  },
+  {
+    "year": -3786796800000,
+    "source": "Modern biofuels",
+    "consumption": 0
+  },
+  {
+    "year": -3471264000000,
+    "source": "Modern biofuels",
+    "consumption": 0
+  },
+  {
+    "year": -3155644800000,
+    "source": "Modern biofuels",
+    "consumption": 0
+  },
+  {
+    "year": -2840112000000,
+    "source": "Modern biofuels",
+    "consumption": 0
+  },
+  {
+    "year": -2524492800000,
+    "source": "Modern biofuels",
+    "consumption": 0
+  },
+  {
+    "year": -2208960000000,
+    "source": "Modern biofuels",
+    "consumption": 0
+  },
+  {
+    "year": -1893427200000,
+    "source": "Modern biofuels",
+    "consumption": 0
+  },
+  {
+    "year": -1577894400000,
+    "source": "Modern biofuels",
+    "consumption": 0
+  },
+  {
+    "year": -1262275200000,
+    "source": "Modern biofuels",
+    "consumption": 0
+  },
+  {
+    "year": -946742400000,
+    "source": "Modern biofuels",
+    "consumption": 0
+  },
+  {
+    "year": -631123200000,
+    "source": "Modern biofuels",
+    "consumption": 0
+  },
+  {
+    "year": -315590400000,
+    "source": "Modern biofuels",
+    "consumption": 0
+  },
+  {
+    "year": 28800000,
+    "source": "Modern biofuels",
+    "consumption": 0
+  },
+  {
+    "year": 315561600000,
+    "source": "Modern biofuels",
+    "consumption": 0
+  },
+  {
+    "year": 631180800000,
+    "source": "Modern biofuels",
+    "consumption": 0.59
+  },
+  {
+    "year": 946713600000,
+    "source": "Modern biofuels",
+    "consumption": 0.89
+  },
+  {
+    "year": 1262332800000,
+    "source": "Modern biofuels",
+    "consumption": 4.37
+  },
+  {
+    "year": 1420099200000,
+    "source": "Modern biofuels",
+    "consumption": 4.75
+  },
+  {
+    "year": -5364633600000,
+    "source": "Traditional biofuels",
+    "consumption": 20
+  },
+  {
+    "year": -5049100800000,
+    "source": "Traditional biofuels",
+    "consumption": 21
+  },
+  {
+    "year": -4733568000000,
+    "source": "Traditional biofuels",
+    "consumption": 22
+  },
+  {
+    "year": -4417948800000,
+    "source": "Traditional biofuels",
+    "consumption": 23
+  },
+  {
+    "year": -4102416000000,
+    "source": "Traditional biofuels",
+    "consumption": 25
+  },
+  {
+    "year": -3786796800000,
+    "source": "Traditional biofuels",
+    "consumption": 26
+  },
+  {
+    "year": -3471264000000,
+    "source": "Traditional biofuels",
+    "consumption": 25
+  },
+  {
+    "year": -3155644800000,
+    "source": "Traditional biofuels",
+    "consumption": 25
+  },
+  {
+    "year": -2840112000000,
+    "source": "Traditional biofuels",
+    "consumption": 25
+  },
+  {
+    "year": -2524492800000,
+    "source": "Traditional biofuels",
+    "consumption": 24
+  },
+  {
+    "year": -2208960000000,
+    "source": "Traditional biofuels",
+    "consumption": 22
+  },
+  {
+    "year": -1893427200000,
+    "source": "Traditional biofuels",
+    "consumption": 23
+  },
+  {
+    "year": -1577894400000,
+    "source": "Traditional biofuels",
+    "consumption": 25
+  },
+  {
+    "year": -1262275200000,
+    "source": "Traditional biofuels",
+    "consumption": 26
+  },
+  {
+    "year": -946742400000,
+    "source": "Traditional biofuels",
+    "consumption": 26
+  },
+  {
+    "year": -631123200000,
+    "source": "Traditional biofuels",
+    "consumption": 27
+  },
+  {
+    "year": -315590400000,
+    "source": "Traditional biofuels",
+    "consumption": 32
+  },
+  {
+    "year": 28800000,
+    "source": "Traditional biofuels",
+    "consumption": 34
+  },
+  {
+    "year": 315561600000,
+    "source": "Traditional biofuels",
+    "consumption": 36
+  },
+  {
+    "year": 631180800000,
+    "source": "Traditional biofuels",
+    "consumption": 40
+  },
+  {
+    "year": 946713600000,
+    "source": "Traditional biofuels",
+    "consumption": 45
+  },
+  {
+    "year": 1262332800000,
+    "source": "Traditional biofuels",
+    "consumption": 42
+  },
+  {
+    "year": 1420099200000,
+    "source": "Traditional biofuels",
+    "consumption": 40
+  }
+]
